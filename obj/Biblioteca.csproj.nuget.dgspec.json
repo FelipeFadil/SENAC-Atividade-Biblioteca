@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Docs Note\\Senac-EAD\\Modulo 2\\UC7 - Documentar e realizar manutenção de aplicações web\\UC07-Atividade_1-Felipe_Fadil\\Biblioteca\\Biblioteca.csproj": {}
+    "C:\\Docs Note\\Senac-EAD\\Modulo 2\\UC7 - Documentar e realizar manutenção de aplicações web\\UC07-Atividade_1-Felipe_Fadil\\Biblioteca\\Biblioteca.csproj": {}
   },
   "projects": {
-    "c:\\Docs Note\\Senac-EAD\\Modulo 2\\UC7 - Documentar e realizar manutenção de aplicações web\\UC07-Atividade_1-Felipe_Fadil\\Biblioteca\\Biblioteca.csproj": {
+    "C:\\Docs Note\\Senac-EAD\\Modulo 2\\UC7 - Documentar e realizar manutenção de aplicações web\\UC07-Atividade_1-Felipe_Fadil\\Biblioteca\\Biblioteca.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Docs Note\\Senac-EAD\\Modulo 2\\UC7 - Documentar e realizar manutenção de aplicações web\\UC07-Atividade_1-Felipe_Fadil\\Biblioteca\\Biblioteca.csproj",
+        "projectUniqueName": "C:\\Docs Note\\Senac-EAD\\Modulo 2\\UC7 - Documentar e realizar manutenção de aplicações web\\UC07-Atividade_1-Felipe_Fadil\\Biblioteca\\Biblioteca.csproj",
         "projectName": "Biblioteca",
-        "projectPath": "c:\\Docs Note\\Senac-EAD\\Modulo 2\\UC7 - Documentar e realizar manutenção de aplicações web\\UC07-Atividade_1-Felipe_Fadil\\Biblioteca\\Biblioteca.csproj",
+        "projectPath": "C:\\Docs Note\\Senac-EAD\\Modulo 2\\UC7 - Documentar e realizar manutenção de aplicações web\\UC07-Atividade_1-Felipe_Fadil\\Biblioteca\\Biblioteca.csproj",
         "packagesPath": "C:\\Users\\felip\\.nuget\\packages\\",
-        "outputPath": "c:\\Docs Note\\Senac-EAD\\Modulo 2\\UC7 - Documentar e realizar manutenção de aplicações web\\UC07-Atividade_1-Felipe_Fadil\\Biblioteca\\obj\\",
+        "outputPath": "C:\\Docs Note\\Senac-EAD\\Modulo 2\\UC7 - Documentar e realizar manutenção de aplicações web\\UC07-Atividade_1-Felipe_Fadil\\Biblioteca\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
