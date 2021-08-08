@@ -14407,6 +14407,16 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Docs Note\\Senac-EAD\\Modulo 2\\UC7 - Documentar e realizar manutenção de aplicações web\\UC07-Atividade_1-Felipe_Fadil\\Biblioteca\\Views\\Usuario\\RegistrarUsuarios.cshtml",
+      "TargetPath": "Views\\Usuario\\RegistrarUsuarios.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Docs Note\\Senac-EAD\\Modulo 2\\UC7 - Documentar e realizar manutenção de aplicações web\\UC07-Atividade_1-Felipe_Fadil\\Biblioteca\\Views\\Usuario\\NeedAdmin.cshtml",
+      "TargetPath": "Views\\Usuario\\NeedAdmin.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Docs Note\\Senac-EAD\\Modulo 2\\UC7 - Documentar e realizar manutenção de aplicações web\\UC07-Atividade_1-Felipe_Fadil\\Biblioteca\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
       "FileKind": "mvc"
@@ -14419,6 +14429,11 @@
     {
       "FilePath": "c:\\Docs Note\\Senac-EAD\\Modulo 2\\UC7 - Documentar e realizar manutenção de aplicações web\\UC07-Atividade_1-Felipe_Fadil\\Biblioteca\\Views\\Home\\Login.cshtml",
       "TargetPath": "Views\\Home\\Login.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Docs Note\\Senac-EAD\\Modulo 2\\UC7 - Documentar e realizar manutenção de aplicações web\\UC07-Atividade_1-Felipe_Fadil\\Biblioteca\\Views\\Usuario\\CadastroRealizado.cshtml",
+      "TargetPath": "Views\\Usuario\\CadastroRealizado.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -14442,6 +14457,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Docs Note\\Senac-EAD\\Modulo 2\\UC7 - Documentar e realizar manutenção de aplicações web\\UC07-Atividade_1-Felipe_Fadil\\Biblioteca\\Views\\Usuario\\ExcluirUsuario.cshtml",
+      "TargetPath": "Views\\Usuario\\ExcluirUsuario.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Docs Note\\Senac-EAD\\Modulo 2\\UC7 - Documentar e realizar manutenção de aplicações web\\UC07-Atividade_1-Felipe_Fadil\\Biblioteca\\Views\\_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
       "FileKind": "mvc"
@@ -14452,8 +14472,18 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Docs Note\\Senac-EAD\\Modulo 2\\UC7 - Documentar e realizar manutenção de aplicações web\\UC07-Atividade_1-Felipe_Fadil\\Biblioteca\\Views\\Usuario\\ListaDeUsuarios.cshtml",
+      "TargetPath": "Views\\Usuario\\ListaDeUsuarios.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Docs Note\\Senac-EAD\\Modulo 2\\UC7 - Documentar e realizar manutenção de aplicações web\\UC07-Atividade_1-Felipe_Fadil\\Biblioteca\\Views\\Home\\Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Docs Note\\Senac-EAD\\Modulo 2\\UC7 - Documentar e realizar manutenção de aplicações web\\UC07-Atividade_1-Felipe_Fadil\\Biblioteca\\Views\\Usuario\\EditarUsuario.cshtml",
+      "TargetPath": "Views\\Usuario\\EditarUsuario.cshtml",
       "FileKind": "mvc"
     },
     {

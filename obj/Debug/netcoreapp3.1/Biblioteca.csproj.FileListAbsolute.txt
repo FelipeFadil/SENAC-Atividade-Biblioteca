@@ -51,3 +51,9 @@ C:\Docs Note\Senac-EAD\Modulo 2\UC7 - Documentar e realizar manutenção de apli
 C:\Docs Note\Senac-EAD\Modulo 2\UC7 - Documentar e realizar manutenção de aplicações web\UC07-Atividade_1-Felipe_Fadil\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.dll
 C:\Docs Note\Senac-EAD\Modulo 2\UC7 - Documentar e realizar manutenção de aplicações web\UC07-Atividade_1-Felipe_Fadil\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.pdb
 C:\Docs Note\Senac-EAD\Modulo 2\UC7 - Documentar e realizar manutenção de aplicações web\UC07-Atividade_1-Felipe_Fadil\Biblioteca\obj\Debug\netcoreapp3.1\Biblioteca.genruntimeconfig.cache
+C:\Docs Note\Senac-EAD\Modulo 2\UC7 - Documentar e realizar manutenção de aplicações web\UC07-Atividade_1-Felipe_Fadil\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\CadastroRealizado.cshtml.g.cs
+C:\Docs Note\Senac-EAD\Modulo 2\UC7 - Documentar e realizar manutenção de aplicações web\UC07-Atividade_1-Felipe_Fadil\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\EditarUsuario.cshtml.g.cs
+C:\Docs Note\Senac-EAD\Modulo 2\UC7 - Documentar e realizar manutenção de aplicações web\UC07-Atividade_1-Felipe_Fadil\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\ExcluirUsuario.cshtml.g.cs
+C:\Docs Note\Senac-EAD\Modulo 2\UC7 - Documentar e realizar manutenção de aplicações web\UC07-Atividade_1-Felipe_Fadil\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\ListaDeUsuarios.cshtml.g.cs
+C:\Docs Note\Senac-EAD\Modulo 2\UC7 - Documentar e realizar manutenção de aplicações web\UC07-Atividade_1-Felipe_Fadil\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\NeedAdmin.cshtml.g.cs
+C:\Docs Note\Senac-EAD\Modulo 2\UC7 - Documentar e realizar manutenção de aplicações web\UC07-Atividade_1-Felipe_Fadil\Biblioteca\obj\Debug\netcoreapp3.1\Razor\Views\Usuario\RegistrarUsuarios.cshtml.g.cs
